@@ -1,2 +1,1 @@
-# HAMOUDI-Khirredine--GI3-
-ETL pipeline project
+due to the high value of the Video, I upolad it on classroom.
